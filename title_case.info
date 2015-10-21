@@ -1,0 +1,5 @@
+name = Title Case
+description = A module for Drupal that allows a user to enter some text and the module will convert it into title case to be displayed on the success page.
+package = Micah's Modules
+core = 7.x
+files[] = title_case.module
